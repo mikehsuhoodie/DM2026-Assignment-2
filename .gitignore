@@ -1,6 +1,3 @@
 .venv/
 __pycache__/
-output.txt
-ipynb_md_cells.txt
-ipynb_outputs.txt
 .ipynb_checkpoints/
